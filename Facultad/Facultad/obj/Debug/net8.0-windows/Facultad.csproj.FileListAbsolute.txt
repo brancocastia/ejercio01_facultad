@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\bin\Debug\net8.0-windows\Facultad.exe
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\bin\Debug\net8.0-windows\Facultad.deps.json
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\bin\Debug\net8.0-windows\Facultad.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\bin\Debug\net8.0-windows\Facultad.dll
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\bin\Debug\net8.0-windows\Facultad.pdb
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.Form1.resources
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.dll
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\refint\Facultad.dll
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.pdb
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\Facultad.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\ejercio01_facultad\Facultad\Facultad\obj\Debug\net8.0-windows\ref\Facultad.dll
